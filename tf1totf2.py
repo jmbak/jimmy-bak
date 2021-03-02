@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import tensorflow as tf
 from gen_meta_omni import Gen_data_Meta
 import numpy as np
